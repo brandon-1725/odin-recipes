@@ -1,1 +1,1 @@
-# odin-recipes
+# This project is designing a brief recipe. The skills demonstrated will be the basic html boilerplate, as well as common tags such as <a> and <img>.
